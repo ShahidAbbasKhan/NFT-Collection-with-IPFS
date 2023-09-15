@@ -1,5 +1,4 @@
 const hre = require("hardhat");
-require("dotenv").config({ path: ".env" });
 
 async function main() {
   // URL from where we can extract the metadata for a LW3Punks
