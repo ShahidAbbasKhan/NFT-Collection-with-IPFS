@@ -5,3 +5,7 @@
 ## after uploading metadata folder check i is uploaded on ipfs
 
 #### https://ipfs.io/ipfs/Metadata_Uploaded_CID/
+
+## base URI setting
+
+### metadataURL = "ipfs://Metadata_Uploaded_CID/";
